@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhavadharani412
+- 👋 Hi, I’m @Bhavadharani
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
