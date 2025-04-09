@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhavadharani
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on springboot
 - 📫 How to reach me bhavadharanik412@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
