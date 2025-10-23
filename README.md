@@ -16,6 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavadharani412&icon=1&color=11)](https://visitcount.itsvg.in)
+<!--
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Bhavadharani412)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
