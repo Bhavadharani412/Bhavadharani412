@@ -1,14 +1,22 @@
-# 👋 Hi, I'm Bhavadharani   
+# Hi, I'm Bhavadharani 👋
 
-Backend-focused developer who loves building reliable systems, solving real-world problems, and understanding how software scales in production.
+🚀 Backend-focused developer passionate about building reliable systems, developer tools, and secure applications.
 
-Currently exploring:
-• Backend engineering  
-• System design fundamentals  
-• Cloud & DevOps workflows  
-• Strong DSA foundations  
+I enjoy solving real-world problems through code, understanding how systems scale, and continuously improving through hands-on projects.
 
 ---
+
+## 💡 What I’m Focused On
+
+- Backend Engineering
+- System Design Fundamentals
+- Artificial Intelligence
+- Cybersecurity Basics
+- Data Structures & Algorithms
+- Building products that people actually use
+
+---
+
 
 ## 💻 Tech Stack:
 
@@ -37,11 +45,40 @@ Currently exploring:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+## 🚀 Featured Projects
+
+### 🔹 Java Error Fixer (VS Code Extension)
+Helps developers understand Java errors with cleaner explanations and faster debugging workflows.
+
+### 🔹 URL Phishing Detector (Rust)
+Security-focused project that detects suspicious URLs using pattern logic and validation.
+
+### 🔹 Chrome Productivity Extension
+Task validation extension that keeps users accountable every time they open Chrome.
+
+### 🔹 Rust Web Tic Tac Toe
+Browser-based game powered using Rust logic.
+
+### 🔹 LeetCode Journey
+Consistent problem solving and DSA growth repository.
+
+---
+## 📈 Current Mission
+
+Building strong fundamentals in:
+
+- Backend Development
+- Secure Coding Practices
+- Real-world Projects
+- Interview-level DSA
+- Product Thinking
+
+---
 
 ## 📊 GitHub Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavadharani412&theme=react-dark)
-![Metrics](https://metrics.lecoq.io/Bhavadharani412?template=classic&activity=1&community=1&repositories=1&metadata=0&activity.days=30&activity.filter=all&activity.limit=5&activity.load=300&activity.visibility=all&activity.timestamps=true)
+
 
 ---
 
@@ -55,7 +92,13 @@ Currently exploring:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bhavadharanik412/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bhavadharanik412/)) 
+
+
+## ⚡ Fun Fact
+
+I don't just write code.  
+I study how software survives production.
 
 <!--
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Bhavadharani412)
