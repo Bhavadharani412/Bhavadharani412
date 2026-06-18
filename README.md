@@ -1,104 +1,185 @@
-# Hi, I'm Bhavadharani 👋
+<div align="center">
 
-🚀 Backend-focused developer passionate about building reliable systems, developer tools, and secure applications.
+<h1>Bhavadharani</h1>
 
-I enjoy solving real-world problems through code, understanding how systems scale, and continuously improving through hands-on projects.
+<h3>Forward Deployed Engineer</h3>
 
----
+<p>
+DSA • Software Engineering • AI • Security
+</p>
 
-## 💡 What I’m Focused On
-
-- Backend Engineering
-- System Design Fundamentals
-- Artificial Intelligence
-- Cybersecurity Basics
-- Data Structures & Algorithms
-- Building products that people actually use
-
----
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=500&lines=0+%E2%86%92+1;0+%E2%86%92+1+%E2%86%92+N;Ideas+%E2%86%92+Products;Business+%E2%86%92+Systems;Systems+%E2%86%92+Outcomes"
+alt="Typing Animation"
+/>
 
 
-## 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
----
-## 🚀 Featured Projects
+<br>
 
-### 🔹 Java Error Fixer (VS Code Extension)
-Helps developers understand Java errors with cleaner explanations and faster debugging workflows.
-
-### 🔹 URL Phishing Detector (Rust)
-Security-focused project that detects suspicious URLs using pattern logic and validation.
-
-### 🔹 Chrome Productivity Extension
-Task validation extension that keeps users accountable every time they open Chrome.
-
-### 🔹 Rust Web Tic Tac Toe
-Browser-based game powered using Rust logic.
-
-### 🔹 LeetCode Journey
-Consistent problem solving and DSA growth repository.
-
----
-## 📈 Current Mission
-
-Building strong fundamentals in:
-
-- Backend Development
-- Secure Coding Practices
-- Real-world Projects
-- Interview-level DSA
-- Product Thinking
+<p>
+  <a href="https://bhavadharani.me">
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhavadharanik412/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+  <a href="https://hashnode.com/@Bhavadharani412">
+    <img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge" />
+  </a>
+</p>
+</div>
+</div>
 
 ---
 
-## 📊 GitHub Activity
+# 👋 About Me
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavadharani412&theme=react-dark)
+I enjoy working at the intersection of:
 
+```text
+Business Problems
+        ↓
+Technical Execution
+        ↓
+Measurable Outcomes
+```
+
+I'm currently building toward a career in **Forward Deployed Engineering**, combining software engineering, AI systems, cloud infrastructure, cybersecurity, and product thinking to help transform ideas into scalable products.
+
+Rather than focusing on technologies alone, I'm interested in understanding:
+
+* Why businesses need a solution
+* How technology creates value
+* How systems scale from 0 → 1 → N
+* How AI accelerates execution
+* How engineers communicate with stakeholders
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Featured Work
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Bhavadharani412&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td width="50%">
 
-![Streak](https://streak-stats.demolab.com?user=Bhavadharani412&theme=tokyonight)
+<h3>📝 Take AI Powered Notes</h3>
+
+Transform content into organized AI-generated notes.
+
+🔗 <a href="https://take-ai-powered-notes-with-ai.streamlit.app/">Live Demo</a>
+
+🔗 <a href="https://github.com/Bhavadharani412/take-ai-powered-notes">Repository</a>
+
+</td>
+
+<td width="50%">
+
+<h3>💡 Dev Explain AI</h3>
+
+AI-powered code explanation tool that helps developers understand unfamiliar codebases.
+
+🔗 <a href="https://get-explanation-for-any-code.streamlit.app/">Live Demo</a>
+
+🔗 <a href="https://github.com/Bhavadharani412/Dev-Explain-AI">Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🤝 Collaborative Text Editor</h3>
+
+Real-time collaborative editing inspired by modern productivity tools.
+
+🔗 <a href="https://github.com/Bhavadharani412/collaborative-text-editor">Repository</a>
+
+</td>
+
+<td width="50%">
+
+<h3>📚 Study System 101</h3>
+
+Personal operating system for learning, tracking progress, and building consistency.
+
+🔗 <a href="https://github.com/Bhavadharani412/study-system-101">Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect with Me
+# 🧠 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bhavadharanik412/)) 
+<div align="center">
 
+| Building                 | Exploring            | Improving         |
+| ------------------------ | -------------------- | ----------------- |
+| Software Engineering     | AI Systems           | System Design     |
+| Customer-Facing Products | Cloud Infrastructure | Communication     |
+| Practical Solutions      | Cybersecurity        | Technical Writing |
 
-## ⚡ Fun Fact
+</div>
 
-I don't just write code.  
-I study how software survives production.
+---
 
-<!--
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Bhavadharani412)
+# ✍️ Writing in Public
+
+I document what I learn through technical articles, reflections, and engineering breakdowns.
+
+### Recent Topics
+
+📖 Prime Number Checking – 5 Optimized Versions in Java
+
+📖 DSA Learning Journey
+
+📖 Software Engineering Fundamentals
+
+📖 AI Systems & Product Thinking
+
+📖 Career Growth & Forward Deployed Engineering
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhavadharani412&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavadharani412&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavadharani412&bg_color=transparent&color=3B82F6&line=2563EB&point=60A5FA&area=true&hide_border=true" />
+
+</div>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://bhavadharani.me">Portfolio</a> • <a href="https://github.com/Bhavadharani412">GitHub</a> • <a href="https://www.linkedin.com/in/bhavadharanik412/">LinkedIn</a> • <a href="https://hashnode.com/@Bhavadharani412">Hashnode</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Technology becomes valuable when it creates outcomes."
+
+Building toward Forward Deployed Engineering.
+
+</div>
